@@ -52,7 +52,7 @@
  * [Integration](/articles/streams/integration.md)
  * [Error Handling in Streams](/articles/streams/error-handling.md)
  * [Working with streaming IO](/articles/streams/workingwithstreamingio.md)
- * [Pipeline and Parallelism](/articles/streams/pipelineandparallelism.md)
+ * [Pipeline and Parallelism](/articles/streams/pipeliningandparallelism.md)
  * [Testing Streams](/articles/streams/testingstreams.md)
  * [Overview of built-in stages and their semantics](/articles/streams/builtinstages.md)
  * [Streams Cookbook](/articles/streams/cookbook.md)
